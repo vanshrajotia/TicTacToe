@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+button {
+  border: 1px solid grey;
+  outline: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.board-row {
+  display: flex;  
+}
+
+
